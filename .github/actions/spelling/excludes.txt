@@ -1,0 +1,14 @@
+ignore$
+(?:^|/)(?i)COPYRIGHT
+(?:^|/)(?i)LICEN[CS]E
+(?:^|/)vendor/
+^\.github/
+\.commitlintrc$
+\.editorconfig$
+\.eslintrc$
+\.huskyrc$
+(?:^|/)package\.json$
+\.lintstagedrc$
+\.lock$
+\.releasegarc$
+\.ja\.
